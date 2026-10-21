@@ -1,0 +1,30 @@
+# ==============================================================================
+# UNIVERSIDAD POLITÉCNICA SALESIANA - APRENDIZAJE AUTOMÁTICO
+# PRÁCTICA: SERIES TEMPORALES Y APRENDIZAJE PROFUNDO (PREDICCIÓN DE DEMANDA)
+# ==============================================================================
+
+# Manipulación y cálculo numérico
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Aprendizaje Automático y Preprocesamiento
+scikit-learn>=1.4.0
+
+# Aprendizaje Profundo (Deep Learning - LSTM / RNN)
+tensorflow>=2.16.0
+keras>=3.0.0
+
+# Repositorio de Datasets (Hugging Face)
+datasets>=2.18.0
+
+# Visualización y Análisis Exploratorio
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Entorno Interactivo y Cuadernos
+jupyter>=1.0.0
+ipykernel>=6.29.0
+
+# Generación Automatizada de Reportes y Presentaciones Ejecutivas
+python-pptx>=1.0.0
